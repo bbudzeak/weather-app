@@ -29,7 +29,7 @@ body {
   margin-top: 30px;
   margin-right: 20px;
   margin-bottom: 30px;
-  font-size: 60px;
+  font-size: 50px;
   text-align: center;
 }
 
@@ -40,10 +40,19 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+footer {
+  font-family: "Poppins", sans-serif;
+  border: 8px solid #9ba6a5;
+  padding: 10px;
+  margin: 20px 500px;
+  text-align: center;
+  background-color: #bbe9db;
+}
+
 .day {
   text-align: center;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: 40px;
+  margin-bottom: 40px;
   font-size: 25px;
   font-family: "Poppins", sans-serif;
 }
