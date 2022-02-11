@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&family=Source+Code+Pro:wght@300&display=swap");
+
+body {
+  background: #757a79;
+}
+.section {
+  border: 8px solid #9ba6a5;
+  margin: 30px;
+  text-align: center;
+  background-color: #bbe9db;
+}
+
+.search-bar {
+  margin: 10px;
+}
+
+.title {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-family: "Poppins", sans-serif;
+}
+
+.temp {
+  font-family: "Poppins", sans-serif;
+}
+
+.temp,
+.condition {
+  margin-top: 30px;
+  margin-right: 20px;
+  margin-bottom: 30px;
+  font-size: 60px;
+  text-align: center;
+}
+
+.city,
+.date {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-family: "Poppins", sans-serif;
+}
+
+.day {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 25px;
+  font-family: "Poppins", sans-serif;
+}
+
+.weather {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 25px;
+}
+
+.temperature {
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 50px;
+  font-size: 25px;
+  font-family: "Poppins", sans-serif;
+}
+
+.forecast-divider {
+  border-right: gray 2px solid;
+}
