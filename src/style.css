@@ -85,3 +85,8 @@ form {
 .weather-temperature .active:hover {
   text-decoration: none;
 }
+
+.git-link {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
