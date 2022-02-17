@@ -86,6 +86,26 @@ form {
   text-decoration: none;
 }
 
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.weather-forecast-date {
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  opacity: 0.7;
+}
+
+.weather-forecast-temperature {
+  font-size: 13px;
+  font-family: "Poppins", sans-serif;
+}
+
+.weather-forexcast-min {
+  opacity: 0.8;
+}
+
 .git-link {
   text-align: center;
   font-family: "Poppins", sans-serif;
