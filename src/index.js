@@ -126,6 +126,7 @@ function getLocation() {
 }
 
 function searchLocation(position) {
+  let apiKey = "34b734b8fe98139b171f0fae0dc3bc5c";
   let lat = position.coords.latitude;
   let lon = position.coords.longitude;
   let apiUrl = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&units=metric&appid=${apiKey}`;
