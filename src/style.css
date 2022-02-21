@@ -10,7 +10,7 @@ h1 {
   font-weight: 100;
   line-height: 28px;
   text-align: left;
-  margin-bottom: 0;
+  margin-bottom: 5px;
   font-family: "Poppins", sans-serif;
 }
 ul {
@@ -43,7 +43,7 @@ form {
   padding: 20px;
   border: 1px solid #dadde1;
   border-radius: 5px;
-  background-color: aliceblue;
+  background-color: rgb(253, 252, 243);
 }
 
 .overview {
@@ -54,7 +54,7 @@ form {
   margin-right: 5px;
   height: 70px;
   width: 70px;
-  background-color: white;
+  /* background-color: white; */
 }
 
 .weather-temperature strong {
@@ -102,7 +102,7 @@ form {
   font-family: "Poppins", sans-serif;
 }
 
-.weather-forexcast-min {
+.weather-forecast-min {
   opacity: 0.7;
 }
 
