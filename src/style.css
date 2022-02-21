@@ -5,7 +5,7 @@ body {
 }
 
 h1 {
-  color: #878787;
+  color: #5e5e5e;
   font-size: 30px;
   font-weight: 100;
   line-height: 28px;
@@ -43,7 +43,7 @@ form {
   padding: 20px;
   border: 1px solid #dadde1;
   border-radius: 5px;
-  background-color: rgb(253, 252, 243);
+  background-color: #caf7f885;
 }
 
 .overview {
